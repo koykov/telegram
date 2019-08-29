@@ -1,0 +1,8 @@
+{
+  "apiId": 0,
+  "apiHash": "0",
+  "tgPublicKey": "/path/to/telegram/pub.key",
+  "secretKey": "/path/to/auth.key",
+  "testAddress": "149.154.167.40:443",
+  "prodAddress": "149.154.167.50:443"
+}
